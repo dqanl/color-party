@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+.customized {
+  font-family: "Nunito", sans-serif;
+  font-size: 1.875rem;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+body {
+  background-color: antiquewhite;
+}
+.sect-1 {
+  font-family: "Rubik Bubbles", cursive;
+  /* font-weight: 10000; */
+  /* font-family: "Nunito", sans-serif; */
+
+  font-size: 1.875rem;
+  /* margin: 3% 25%; */
+  padding-top: 4%;
+  text-align: center;
+}
+
+/* Buttons */
+.button-section {
+  font-family: "Rubik Bubbles", cursive;
+  padding-top: 40px;
+  padding-left: 20%;
+  /* padding-right: 20%; */
+}
+.btn-1{
+  margin-right: 40%;
+
+}
+
+footer{
+  background-color: rgb(70, 65, 65);
+  margin-top:25%;
+  padding-top: 20px;
+  padding-bottom:1%;
+}
+.icon-section{
+  /* padding-top: 20px; */
+  display: flexbox;
+}
+.fa-brands{
+  color: wheat;
+  padding-left: 23%;
+}
+
+/* byRed */
