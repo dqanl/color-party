@@ -1,5 +1,5 @@
 "use strict";
-
+console.log('ddd')
 const randomBtn = document.querySelector(".btn-1");
 const changeBtn = document.querySelector(".btn-2");
 const placeHolder = document.querySelector(".placeholder");
